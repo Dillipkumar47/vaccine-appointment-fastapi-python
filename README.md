@@ -1,5 +1,5 @@
 # vaccine-appointment-fastapi-python
-.
+
 |-- api                         
 |-- models                     
 |-- services                   
